@@ -1,0 +1,9 @@
+# Byte-compiled 
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+*/*/.ipynb_checkpoints
