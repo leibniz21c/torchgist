@@ -21,3 +21,8 @@ model = GIST(
     boundary_extension=32
 )
 ```
+
+# TODO
+
+1. Process-based parallel processing
+2. CUDA-based parallel processing
